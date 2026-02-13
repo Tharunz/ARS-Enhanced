@@ -1,6 +1,6 @@
 ARS Enhanced.
 
-Features:
+# Features:
     1. Execute remote commands.
     2. Persistant across reboots.
     3. Debugging capabilities.
